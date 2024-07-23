@@ -3,7 +3,7 @@ import pyocr
 import pyocr.builders
 import sys
 
-file_path = 'C:/Users/29004/Desktop/キャプチャ.png'
+file_path = 'C:/Users/29004/Desktop/キャプチャ.JPG'
 # ツール読み込み
 tools = pyocr.get_available_tools()
 # ツールが見付からない場合
